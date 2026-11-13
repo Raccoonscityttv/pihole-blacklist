@@ -1,6 +1,6 @@
 # pihole-blacklist
 
-Eigene Pi-hole Blockliste mit Domains, die im AdBlock-Tester noch nicht geblockt wurden.
+Eigene Pi-hole Blockliste mit allen Test-Domains von https://superadblocktest.com/ (478 Domains).
 
 ## In Pi-hole einbinden
 
