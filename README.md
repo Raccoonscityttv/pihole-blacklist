@@ -14,3 +14,11 @@ https://raw.githubusercontent.com/Raccoonscityttv/pihole-blacklist/main/rote-dom
 
 Am Ende der Liste stehen Domains, die Apps oder Webseiten beeinträchtigen können
 (YouTube-Videos, Instagram, Cookie-Banner). Bei Problemen dort zuerst nachsehen.
+
+## Weitere Liste: Turtlecute (d3host)
+
+Die Turtlecute Host List, umgewandelt ins Pi-hole-Domainformat:
+
+```
+https://raw.githubusercontent.com/Raccoonscityttv/pihole-blacklist/main/turtlecute-d3host.txt
+```
