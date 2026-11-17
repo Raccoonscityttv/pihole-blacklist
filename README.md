@@ -22,3 +22,13 @@ Die Turtlecute Host List, umgewandelt ins Pi-hole-Domainformat:
 ```
 https://raw.githubusercontent.com/Raccoonscityttv/pihole-blacklist/main/turtlecute-d3host.txt
 ```
+
+## Tester fürs Terminal
+
+Prüft alle Domains der Liste gegen Pi-hole und zeigt, welche durchkommen:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Raccoonscityttv/pihole-blacklist/main/pihole-test.sh | bash
+```
+
+Anderen DNS-Server testen: `... | bash -s 192.168.178.201`
